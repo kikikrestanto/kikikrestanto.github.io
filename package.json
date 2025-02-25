@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kikikrestanto.github.io/",
   "name": "portofolio-react-js",
   "version": "0.1.0",
   "private": true,
@@ -40,6 +41,5 @@
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1",
     "web-vitals": "^4.2.4"
-  },
-  "homepage": "https://https://kikikrestanto.github.io/"
+  }
 }
