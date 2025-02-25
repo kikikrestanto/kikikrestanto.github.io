@@ -113,7 +113,8 @@ header {
   display: flex;
   margin-top: 20px;
   border-radius: 2px;
-  border: 1px dashed #000;
+  /* border: 1px dashed #000; */
+  border-bottom: 1px solid #000;
 }
 
 .list-title p {

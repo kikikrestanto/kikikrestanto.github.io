@@ -1,7 +1,7 @@
 import React from 'react';
 import '../src/styles/App.css';
 import image3 from '../src/assets/images/image-3.jpg';
-import logoHanaBank from '../src/assets/images/Logo Hana Bank.jpg';
+import logoHanaBank from '../src/assets/images/Logo Hana Bank terbaru.png';
 import logoAntamLM from '../src/assets/images/Logo Antam Logam Mulia.png';
 import logoHiBank from '../src/assets/images/Logo Hibank.png';
 import iconFacebook from '../src/assets/images/facebook.jpg';
