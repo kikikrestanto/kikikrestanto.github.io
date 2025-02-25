@@ -5,11 +5,14 @@
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-scripts": "^5.0.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
@@ -37,5 +40,6 @@
     "customize-cra": "^1.0.0",
     "react-app-rewired": "^2.2.1",
     "web-vitals": "^4.2.4"
-  }
+  },
+  "homepage": "https://https://kikikrestanto.github.io/"
 }
