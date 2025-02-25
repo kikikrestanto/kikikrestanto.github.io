@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "//kikikrestanto.github.io/static/css/main.82040461.css",
-    "main.js": "//kikikrestanto.github.io/static/js/main.05ae63f7.js",
-    "static/js/488.d9a5817f.chunk.js": "//kikikrestanto.github.io/static/js/488.d9a5817f.chunk.js",
-    "static/media/image-2.jpg": "//kikikrestanto.github.io/static/media/image-2.085a041ab261f1af4a36.jpg",
-    "static/media/image-1.jpg": "//kikikrestanto.github.io/static/media/image-1.97ab6f16c9ac5e0f7ecd.jpg",
-    "static/media/image-3.jpg": "//kikikrestanto.github.io/static/media/image-3.6d036adbf22cf0e5b20a.jpg",
-    "static/media/photo-profile.jpg": "//kikikrestanto.github.io/static/media/photo-profile.0bfb883dddf5359d22bd.jpg",
-    "index.html": "//kikikrestanto.github.io/index.html",
-    "main.82040461.css.map": "//kikikrestanto.github.io/static/css/main.82040461.css.map",
-    "main.05ae63f7.js.map": "//kikikrestanto.github.io/static/js/main.05ae63f7.js.map",
-    "488.d9a5817f.chunk.js.map": "//kikikrestanto.github.io/static/js/488.d9a5817f.chunk.js.map"
+    "main.css": "/static/css/main.5f5d9566.css",
+    "main.js": "/static/js/main.72ea4888.js",
+    "static/js/488.d9a5817f.chunk.js": "/static/js/488.d9a5817f.chunk.js",
+    "static/media/image-3.jpg": "/static/media/image-3.6d036adbf22cf0e5b20a.jpg",
+    "static/media/Logo Antam Logam Mulia.png": "/static/media/Logo Antam Logam Mulia.3222203c5f2a9f91f85b.png",
+    "static/media/Logo Hana Bank.jpg": "/static/media/Logo Hana Bank.98ad7d6d04f572bd81cc.jpg",
+    "static/media/photo-profile.jpg": "/static/media/photo-profile.0bfb883dddf5359d22bd.jpg",
+    "index.html": "/index.html",
+    "main.5f5d9566.css.map": "/static/css/main.5f5d9566.css.map",
+    "main.72ea4888.js.map": "/static/js/main.72ea4888.js.map",
+    "488.d9a5817f.chunk.js.map": "/static/js/488.d9a5817f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82040461.css",
-    "static/js/main.05ae63f7.js"
+    "static/css/main.5f5d9566.css",
+    "static/js/main.72ea4888.js"
   ]
 }
